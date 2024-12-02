@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on IBDFAM
-- 🌱 I’m currently learning Typescript, ReactJS and NextJS
+- 🔭 I’m currently working on TSX Engineering
+- 🌱 I'm currently learning Javascript and Power Platform Tools
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=maiconviana2&count_private=true&show_icons=true&theme=omni" height="200"/>
